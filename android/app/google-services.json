@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "313023514096",
+    "firebase_url": "https://cleaner-together-2a24c.firebaseio.com",
+    "project_id": "cleaner-together-2a24c",
+    "storage_bucket": "cleaner-together-2a24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313023514096:android:6bcae157f9a0f8f934c935",
+        "android_client_info": {
+          "package_name": "com.cleanertogether.cleaner_together"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313023514096-0f6dbi6rd0st6vocmq87gfiamb67tfg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM4ajMjgQmdvM3Mofc-YOxn5mwNpHXr4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313023514096-0f6dbi6rd0st6vocmq87gfiamb67tfg4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313023514096-nk8as311vlpr88i99p5mif4lq1c6qoa2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.CleanerTogether.Cleaner-Together"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
